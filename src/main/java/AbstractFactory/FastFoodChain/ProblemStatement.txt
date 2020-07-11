@@ -1,0 +1,11 @@
+We aim to create a fast food brand chain. Having multiple brands, each brand selling different products of its own.
+Say : Two kinds of brands : KFC and Burger King.
+
+Burger King has three kinds of burgers : KingBurgerA , KingBurgerB , KingBurgerC.
+KFC : has three kinds of burgers : KFCBurgerA, KFCBurgerB, KFCBurgerC
+
+Each burger can be of two kinds. Veg and Non Veg.
+
+Create a design with an optimised structure. Please adhere to the open/closed principle.
+
+
